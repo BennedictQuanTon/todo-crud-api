@@ -74,7 +74,7 @@ content-type: application/json
 
 Access live interactive OpenAPI documentation at `http://localhost:8000/docs`.
 
-![Swagger UI Screenshot](swagger-ui.png)
+![Swagger UI Screenshot](swagger_ui.jpg)
 
 ---
 
